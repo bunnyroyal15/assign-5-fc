@@ -1,0 +1,39 @@
+.container {
+    border: 5px solid black;
+    width: 270px;
+    background-color: lawngreen;
+    border-top-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+}
+
+.card {
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+.img {
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.para {
+    text-align: justify;
+    margin: 10px;
+}
+
+.btn {
+   text-align: center;
+   border: 5px;
+   margin: 15px;
+   padding: 10px;
+   font-weight: bold;
+   background-color: black;
+   color: lawngreen;
+   border-top-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+   cursor: pointer;
+ }
